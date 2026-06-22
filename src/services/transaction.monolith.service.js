@@ -1,3 +1,5 @@
+// @deprecated
+
 // SIMULACIÓN DE UNA BASE DE DATOS EN MEMORIA (Estado global/local)
 const usersDb = [
   { id: 'usr_001', email: 'estudiante.alpha@espe.edu.ec', accountAlpha: 'ACC-12345', balance: 1500.00 },

@@ -1,4 +1,4 @@
-const transactionService = require('../services/transaction.monolith.service');
+const { transactionService } = require('../container');
 
 /**
  * Endpoint para ejecutar una transferencia bancaria (Beta).
