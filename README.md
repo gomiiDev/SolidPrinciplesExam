@@ -1,8 +1,7 @@
-# Fintech SecurePay — Bitácora de Evaluación
+#Bitácora
 
 **Asignatura:** Aplicaciones Distribuidas — ESPE  
-**Autor:** Carlos Ha  
-**Fecha:** Junio 2026
+**Autor:** Carlos Hernandez 
 
 ---
 
